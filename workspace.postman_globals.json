@@ -1,0 +1,15 @@
+{
+	"id": "216a0a37-6147-46df-8225-6106cf7cb371",
+	"values": [
+		{
+			"key": "API-KEY",
+			"value": "47306034-78fc-4767-bfd9-25e78825b985",
+			"type": "secret",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2023-09-09T18:28:28.113Z",
+	"_postman_exported_using": "Postman/10.17.7"
+}
